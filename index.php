@@ -19,7 +19,7 @@ if ($files) {
 <head>
     <title>RandomFox</title>
     <meta charset="utf-8">
-    <meta type="author" content="xinitrc" />
+    <meta type="authors" content="xinitrc" />
     <meta type="description" content="Displaying pictures of random foxes with every click!" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="theme-color" content="#FF6600" />
